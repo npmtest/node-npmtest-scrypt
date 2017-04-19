@@ -1,4 +1,7 @@
-# test coverage for  [scrypt (v6.0.3)](https://github.com/barrysteyn/node-scrypt)  [![npm package](https://img.shields.io/npm/v/npmtest-scrypt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-scrypt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-scrypt.svg)](https://travis-ci.org/npmtest/node-npmtest-scrypt)
+# npmtest-scrypt
+
+#### basic test coverage for  [scrypt (v6.0.3)](https://github.com/barrysteyn/node-scrypt)  [![npm package](https://img.shields.io/npm/v/npmtest-scrypt.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-scrypt) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-scrypt.svg)](https://travis-ci.org/npmtest/node-npmtest-scrypt)
+
 #### The scrypt crypto library for NodeJS
 
 [![NPM](https://nodei.co/npm/scrypt.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/scrypt)
